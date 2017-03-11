@@ -1,3 +1,5 @@
+// Print the pattern given below
+
 /**
  to print a pattern like:
  54321
@@ -7,14 +9,14 @@
      1
  if the input is 5
  */
- 
+
 #include <stdio.h>
 #include <conio.h>
 
 void main() {
     clrscr();
     int rows, i , j;
-    
+
     printf("Enter number of rows: ");
     scanf("%d", &rows);
     printf("\n");

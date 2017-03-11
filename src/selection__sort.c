@@ -1,3 +1,5 @@
+// Sort a given array using Selection Sort algorithm.
+
 #include <stdio.h>
 
 int main() {

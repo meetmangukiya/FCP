@@ -1,6 +1,8 @@
+// Prints number of days of the month of given year and month
+
 #include <stdio.h>
 #include <conio.h>
- 
+
 void main() {
     clrscr();
     int year, month;
