@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 
 # contains doc string of each file as a dict, with key being file name and
